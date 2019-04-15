@@ -2,4 +2,5 @@ X.pickle
 y.pickle
 Datasets/
 logs/
+models/
 Cats-vs-dogs-CNN
